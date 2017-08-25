@@ -1,5 +1,5 @@
 cache:
   dog:
-    expiration: 10
+    expiration: 2
   image:
-    expiration: 30
+    expiration: 2
